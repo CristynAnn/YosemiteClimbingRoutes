@@ -1,0 +1,24 @@
+<resource xmlns:xsi="https://github.com/CristynAnn/YosemiteClimbingRoutes/tree/main" xmlns="https://www.mountainproject.com/route-finder?selectedIds=105833381&type=boulder&diffMinrock=1800&diffMinboulder=20000&diffMinaid=70000&diffMinice=30000&diffMinmixed=50000&diffMaxrock=5500&diffMaxboulder=21700&diffMaxaid=75260&diffMaxice=38500&diffMaxmixed=60000&is_trad_climb=1&is_sport_climb=1&is_top_rope=1&stars=0&pitches=0&sort1=popularity+desc&sort2=rating" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+<creators>
+	<creator>
+	<creatorName nameType="Personal">Filla, Cristyn</creatorName>
+	<givenName>Cristyn</givenName>
+	<familyName>Filla</familyName>
+	</creator>
+</creators>
+<titles>
+	<title xml:lang="en">Climbing Routes in Yosemite National Park</title>
+</titles>
+<subjects>
+	<subject xml:lang="en">Climbing</subject>
+	<subject xml:lang="en">Bouldering</subject>
+	<subject xml:lang="en">National Parks</subject>
+	<subject xml:lang="en">Yosemite</subject>
+</subjects>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<version>1.0</version>
+<descriptions>
+<description xml:lang="en" descriptionType="Summary">This dataset contains basic details on the known and documented rock-climbing routes in Yosemite National Park. Each entry includes data on location, difficulty level, and basic route description. The goal of this dataset is to inform climbers who want to climb in Yosemite. By providing easily accessible data on climbing routes climbers should be able to more easily find and read routes and as a result climb more safely as more informed climbers. </description>
+</descriptions>
+</resource>
