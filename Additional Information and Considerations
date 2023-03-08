@@ -3,11 +3,22 @@ Recommended Data Citation:
 
 Considerations for Long-term Preservation: 
 
-This dataset is accurate as of February 2023 and is outdated at any point after that time. Bouldering data can very quickly become out-of-date due to the nature of the routes, as the environment around the routes changes so too does the nature (and thus collected metadata) of the routes. The data should therefore be treated as historical data. Given that this historical data can still have foreseeable and unforeseeable use to boulders, land management organizations, the national park, and more not-yet-identified entities it is vital to continue to preserve this data even if it is not up-to-date. 
+This dataset is accurate as of February 2023 and is outdated at any point after that time. 
+Bouldering data can very quickly become out-of-date due to the nature of the routes, as the environment around 
+the routes changes so too does the nature (and thus collected metadata) of the routes. The data should therefore 
+be treated as historical data. Given that this historical data can still have foreseeable and unforeseeable use 
+to boulders, land management organizations, the national park, and more not-yet-identified entities it is vital 
+to continue to preserve this data even if it is not up-to-date. 
 
-Preservation for this data should include storage on a repository, at the time of creation of this GitHub page there are plans to store the data on the OpenBeta repository; on the cloud, currently it resides on the GitHub page which meets this requirement; and on a hard drive, which at this time is the GitHub page creator’s desktop. This process ensures that there are back-up copies of the dataset should any data loss or corruption occur on one of these storage platforms. 
+Preservation for this data should include storage on a repository, at the time of creation of this GitHub page 
+there are plans to store the data on the OpenBeta repository; on the cloud, currently it resides on the GitHub 
+page which meets this requirement; and on a hard drive, which at this time is the GitHub page creator’s desktop. 
+This process ensures that there are back-up copies of the dataset should any data loss or corruption occur on one 
+of these storage platforms. 
 
-The data should remain in a JSON, CSV, or Python Pickle file format to ensure readability and protect against possible data corruption when switching between file types. CSV is the preferred format as it requires no special skills or software to read the dataset (and thus use the dataset).  
+The data should remain in a JSON, CSV, or Python Pickle file format to ensure readability and protect against 
+possible data corruption when switching between file types. CSV is the preferred format as it requires no special 
+skills or software to read the dataset (and thus use the dataset).  
 
 Ideally, the file is routinely checked agains a hash to ensure that no corruption has occurred. 
 The hash for the CSV file of this data is: 
@@ -20,4 +31,5 @@ There is no copy right information for this data. This is open source data that 
 
 Human Subject Considerations: 
 
-This dataset does not include any human subject related data or identification. Therefore, there is no need for additional considerations for this sensitive data type. 
+This dataset does not include any human subject related data or identification. Therefore, there is no need for 
+additional considerations for this sensitive data type. 
