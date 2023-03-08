@@ -17,4 +17,4 @@ This page contains the following:
  - Unstructured data repository profile information in Word Document format
 
 
- - Addition information and considerations document for the data in PDF format
+ - Addition information and considerations document for the data 
