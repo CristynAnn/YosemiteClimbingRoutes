@@ -1,4 +1,7 @@
-Recommended Citation
+Recommended Citation:
+
+	The Mountain Project (2023). Boulder routes in Yosemite National Park. between V-easy and V17 with at least 0 stars. 
+		Dataset. https://www.mountainproject.com/route-finder?selectedIds=105833381&type=boulder&diffMinrock=1800&diffMinboulder=20000&diffMinaid=70000&diffMinice=30000&diffMinmixed=50000&diffMaxrock=5500&diffMaxboulder=21700&diffMaxaid=75260&diffMaxice=38500&diffMaxmixed=60000&is_trad_climb=1&is_sport_climb=1&is_top_rope=1&stars=0&pitches=0&sort1=popularity+desc&sort2=rating
 
 
 Considerations for Long-term Preservation: 
@@ -20,14 +23,13 @@ Considerations for Long-term Preservation:
 	possible data corruption when switching between file types. CSV is the preferred format as it requires no special 
 	skills or software to read the dataset (and thus use the dataset).  
 
-	Ideally, the file is routinely checked agains a hash to ensure that no corruption has occurred. 
-	The hash for the CSV file of this data is: 
+	Ideally, the file is routinely checked against a hash to ensure that no corruption has occurred. 
 
 
 Copy Right License Information: 
 
 	There is no copy right information for this data. This is open source data that will be stored on an open source repository. 
-
+	
 
 Human Subject Considerations: 
 
